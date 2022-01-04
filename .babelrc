@@ -1,0 +1,5 @@
+// babelrc file is just a file to define some
+// preset and stuff like that
+{
+  "presets": ["@babel/preset-env"]
+}
